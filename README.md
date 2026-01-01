@@ -1,22 +1,96 @@
-
 <h1 align="center">Hi 👋, I'm Ayush Kharya</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">Software Development Engineer | Full-Stack & AI Engineering</h3>
 
-# 💫 About Me:
-🔭 I’m currently working on a MERN Project<br>🌱 I’m Interested to learn new technologies<br>💬 Ask me about Technology & Finance<br>📫 How to reach me: ayush87269@gmail.com<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-kharya-59b545221/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayushkharya87&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayushkharya87&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkharya87&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<p align="center">
+🌍 Jhansi, Uttar Pradesh, India • 📧 ayush87269@gmail.com • 📞 +91-9621914851  
+<br/>
+<a href="https://linkedin.com/in/ayush-kharya" target="_blank">LinkedIn</a> •
+<a href="https://github.com/ayushkharya87" target="_blank">GitHub</a> •
+<a href="#" target="_blank">Portfolio</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ayushkharya87&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+I design and develop modern, scalable and high-performance digital products — from interactive web platforms to intelligent, AI-powered applications.
+
+My work focuses on **clean architecture, strong backend engineering, real-world problem solving, and seamless user experience**. I specialize in building production-ready systems, automation workflows, real-time applications, and AI-integrated solutions.
+
+I actively work with **React.js, Next.js, Node.js, Express.js, Laravel, MongoDB, MySQL, and Python**, along with **AI integrations, chatbots, workflow automation, LLM-based systems, and intelligent pipelines**.
+
+My goal is simple — **build technology that delivers impact, scales effectively, and powers business growth through modern engineering and intelligent automation.**
+
+---
+
+## 🛠️ Technical Skills
+
+### 🎨 Frontend
+React.js • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Redux Toolkit • Tailwind CSS • Responsive UI
+
+### ⚙️ Backend
+Node.js • Express.js • Laravel • REST APIs • Microservices Oriented Architecture
+
+### 🗄️ Databases
+MongoDB • MySQL • Data Modeling • Query Optimization
+
+### 🔌 APIs & Real-Time Systems
+REST APIs • WebSockets • Socket.io • Event-Driven Architecture
+
+### 🤖 AI Engineering
+LLM-based Workflows • AI Integrations • Chatbots • Automation Pipelines • Prompt-oriented System Behavior
+
+### ☁️ Cloud & DevOps
+Git • GitHub • CI/CD Pipelines • AWS S3 • Cloud Storage • Deployment & Release Management
+
+---
+
+## 🚀 Projects
+
+### 🧳 Travel Loop — Travel Management Platform (MERN + AI)
+✔ OTP authentication, booking flow, wishlist, reviews, gallery  
+✔ AI-powered travel assistant for real-time recommendations  
+✔ Admin panel for destinations, packages, bookings, enquiries, CMS & analytics  
+✔ Automated email workflows and media optimization  
+
+**Tech:** React, Tailwind, Node, Express, MongoDB, REST APIs, JWT
+
+---
+
+### 📰 ViralAiHub — Automated AI Blogging Platform
+✔ AI-based topic research & SEO-optimized article generation  
+✔ AI image generation & scheduled publishing via cron jobs  
+✔ Dynamic CMS, branding controls, legal pages, ads & global settings  
+✔ Event-driven automation workflows & secure architecture  
+
+**Tech:** MERN Stack • Cloudinary • JWT • Background Processing
+
+---
+
+## 🧩 Services in Detail
+
+### 01 — Full-Stack Development
+I build production-ready applications including dashboards, admin panels, SaaS platforms, CRMs, ERPs and enterprise tools — engineered for **performance, security, scalability, and maintainability**.
+
+### 02 — AI Solutions & Automation
+Chatbots • Smart Assistants • Workflow Automation • AI Content Systems • Recommendation Engines — enabling **smarter and faster business operations**.
+
+### 03 — API Development & Backend Systems
+Secure REST APIs • Authentication • Payments • Notifications • Microservices • Real-time Communication • Third-party Integrations — built for **speed, reliability, and structured data flow**.
+
+---
+
+## 🌐 Connect With Me
+<a href="https://linkedin.com/in/ayush-kharya" target="_blank">🔗 LinkedIn</a> •
+<a href="https://github.com/ayushkharya87" target="_blank">💻 GitHub</a> •
+📧 Email: **ayush87269@gmail.com**
+
+---
+
+## 📊 GitHub Insights
+![](https://github-readme-stats.vercel.app/api?username=ayushkharya87&theme=dark&hide_border=false&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ayushkharya87&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushkharya87&theme=dark&hide_border=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ayushkharya87&icon=0&color=0)](https://visitcount.itsvg.in)
