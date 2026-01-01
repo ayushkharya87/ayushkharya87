@@ -2,11 +2,13 @@
 <h3 align="center">Software Development Engineer | Full-Stack & AI Engineering</h3>
 
 <p align="center">
-🌍 Jhansi, Uttar Pradesh, India • 📧 ayush87269@gmail.com • 📞 +91-9621914851  
+🌍 Jhansi, Uttar Pradesh, India  
 <br/>
-<a href="https://linkedin.com/in/ayush-kharya" target="_blank">LinkedIn</a> •
+📧 <a href="mailto:ayush87269@gmail.com">ayush87269@gmail.com</a> • 📞 +91-9621914851
+<br/><br/>
+<a href="https://www.linkedin.com/in/ayush-kharya-59b545221/" target="_blank">LinkedIn</a> •
 <a href="https://github.com/ayushkharya87" target="_blank">GitHub</a> •
-<a href="#" target="_blank">Portfolio</a>
+<a href="https://ayushkharya-portfolio.vercel.app/" target="_blank">Portfolio</a>
 </p>
 
 ---
@@ -14,11 +16,11 @@
 ## 🧑‍💻 About Me
 I design and develop modern, scalable and high-performance digital products — from interactive web platforms to intelligent, AI-powered applications.
 
-My work focuses on **clean architecture, strong backend engineering, real-world problem solving, and seamless user experience**. I specialize in building production-ready systems, automation workflows, real-time applications, and AI-integrated solutions.
+My work focuses on **clean architecture, strong backend engineering, problem-solving, performance, and seamless user experience**. I specialize in building production-ready systems, automation workflows, real-time applications, and AI-integrated solutions.
 
-I actively work with **React.js, Next.js, Node.js, Express.js, Laravel, MongoDB, MySQL, and Python**, along with **AI integrations, chatbots, workflow automation, LLM-based systems, and intelligent pipelines**.
+I work extensively with **React.js, Next.js, Node.js, Express.js, Laravel, MongoDB, MySQL, and Python**, along with **AI integrations, chatbots, automation systems, LLM-based workflows, and intelligent pipelines**.
 
-My goal is simple — **build technology that delivers impact, scales effectively, and powers business growth through modern engineering and intelligent automation.**
+My goal is simple — **build technology that delivers impact, scales effectively, and helps businesses grow through modern engineering and intelligent automation.**
 
 ---
 
@@ -28,7 +30,7 @@ My goal is simple — **build technology that delivers impact, scales effectivel
 React.js • Next.js • JavaScript • TypeScript • HTML5 • CSS3 • Redux Toolkit • Tailwind CSS • Responsive UI
 
 ### ⚙️ Backend
-Node.js • Express.js • Laravel • REST APIs • Microservices Oriented Architecture
+Node.js • Express.js • Laravel • REST API Development • Micro-services Oriented Architecture
 
 ### 🗄️ Databases
 MongoDB • MySQL • Data Modeling • Query Optimization
@@ -37,52 +39,31 @@ MongoDB • MySQL • Data Modeling • Query Optimization
 REST APIs • WebSockets • Socket.io • Event-Driven Architecture
 
 ### 🤖 AI Engineering
-LLM-based Workflows • AI Integrations • Chatbots • Automation Pipelines • Prompt-oriented System Behavior
+AI Integrations • Chatbot Development • LLM-based Workflows • Automation Pipelines • Prompt-oriented System Behaviour
 
 ### ☁️ Cloud & DevOps
 Git • GitHub • CI/CD Pipelines • AWS S3 • Cloud Storage • Deployment & Release Management
 
 ---
 
-## 🚀 Projects
-
-### 🧳 Travel Loop — Travel Management Platform (MERN + AI)
-✔ OTP authentication, booking flow, wishlist, reviews, gallery  
-✔ AI-powered travel assistant for real-time recommendations  
-✔ Admin panel for destinations, packages, bookings, enquiries, CMS & analytics  
-✔ Automated email workflows and media optimization  
-
-**Tech:** React, Tailwind, Node, Express, MongoDB, REST APIs, JWT
-
----
-
-### 📰 ViralAiHub — Automated AI Blogging Platform
-✔ AI-based topic research & SEO-optimized article generation  
-✔ AI image generation & scheduled publishing via cron jobs  
-✔ Dynamic CMS, branding controls, legal pages, ads & global settings  
-✔ Event-driven automation workflows & secure architecture  
-
-**Tech:** MERN Stack • Cloudinary • JWT • Background Processing
-
----
-
 ## 🧩 Services in Detail
 
 ### 01 — Full-Stack Development
-I build production-ready applications including dashboards, admin panels, SaaS platforms, CRMs, ERPs and enterprise tools — engineered for **performance, security, scalability, and maintainability**.
+Production-ready web applications including dashboards, admin panels, SaaS platforms, CRMs, ERPs and enterprise systems — engineered for **performance, security, scalability, and maintainability**.
 
 ### 02 — AI Solutions & Automation
-Chatbots • Smart Assistants • Workflow Automation • AI Content Systems • Recommendation Engines — enabling **smarter and faster business operations**.
+Intelligent chatbots, workflow automation, AI-driven content tools, smart assistants, recommendation engines — enabling **smarter and faster business operations**.
 
 ### 03 — API Development & Backend Systems
-Secure REST APIs • Authentication • Payments • Notifications • Microservices • Real-time Communication • Third-party Integrations — built for **speed, reliability, and structured data flow**.
+Secure REST APIs, authentication modules, notifications, microservices, integrations and real-time systems — built for **speed, reliability, and structured data flow**.
 
 ---
 
 ## 🌐 Connect With Me
-<a href="https://linkedin.com/in/ayush-kharya" target="_blank">🔗 LinkedIn</a> •
-<a href="https://github.com/ayushkharya87" target="_blank">💻 GitHub</a> •
-📧 Email: **ayush87269@gmail.com**
+🔗 LinkedIn — https://www.linkedin.com/in/ayush-kharya-59b545221/  
+💻 GitHub — https://github.com/ayushkharya87  
+🗂 Portfolio — https://ayushkharya-portfolio.vercel.app/  
+📧 Email — ayush87269@gmail.com  
 
 ---
 
