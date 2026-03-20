@@ -8,7 +8,7 @@
 <br/><br/>
 <a href="https://www.linkedin.com/in/ayush-kharya-59b545221/" target="_blank">LinkedIn</a> •
 <a href="https://github.com/ayushkharya87" target="_blank">GitHub</a> •
-<a href="https://ayushkharya-portfolio.vercel.app/" target="_blank">Portfolio</a>
+<a href="https://ayushkharya.online" target="_blank">Portfolio</a>
 </p>
 
 ---
