@@ -62,7 +62,7 @@ Secure REST APIs, authentication modules, notifications, microservices, integrat
 ## 🌐 Connect With Me
 🔗 LinkedIn — https://www.linkedin.com/in/ayush-kharya-59b545221/  
 💻 GitHub — https://github.com/ayushkharya87  
-🗂 Portfolio — https://ayushkharya-portfolio.vercel.app/  
+🗂 Portfolio — https://ayushkharya.online/
 📧 Email — ayush87269@gmail.com  
 
 ---
