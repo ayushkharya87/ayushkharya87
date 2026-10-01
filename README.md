@@ -4,7 +4,7 @@
 <p align="center">
 🌍 Jhansi, Uttar Pradesh, India  
 <br/>
-📧 <a href="mailto:ayush87269@gmail.com">ayush87269@gmail.com</a> • 📞 +91-9621914851
+📧 <a href="mailto:ayushkharya7@gmail.com">ayushkharya7@gmail.com</a> • 📞 +91-9621914851
 <br/><br/>
 <a href="https://www.linkedin.com/in/ayush-kharya-59b545221/" target="_blank">LinkedIn</a> •
 <a href="https://github.com/ayushkharya87" target="_blank">GitHub</a> •
@@ -63,7 +63,7 @@ Secure REST APIs, authentication modules, notifications, microservices, integrat
 🔗 LinkedIn — https://www.linkedin.com/in/ayush-kharya-59b545221/  
 💻 GitHub — https://github.com/ayushkharya87  
 🗂 Portfolio — https://ayushkharya.online/
-📧 Email — ayush87269@gmail.com  
+📧 Email — ayushkharya7@gmail.com  
 
 ---
 
